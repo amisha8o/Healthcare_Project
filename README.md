@@ -122,41 +122,6 @@ Diabetic Retinopathy is a serious eye disease caused by diabetes and can lead to
 git clone https://github.com/amisha8o/AMISHA-14.git
 cd AMISHA-14
 
-2️⃣ Create Virtual Environment
-python -m venv venv
-Activate:
-
-Windows
-venv\Scripts\activate
-Mac/Linux
-source venv/bin/activate
-
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-
-▶️ How to Run
-Train Model:
-python train.py
-
-Evaluate Model:
-python evaluate.py
-
-Predict on Image:
-python predict.py --image path/to/image.jpg
-
-📁 Project Structure
-AMISHA-14/
-│
-├── data/
-├── models/
-├── utils/
-├── notebooks/
-│
-├── train.py
-├── evaluate.py
-├── predict.py
-├── requirements.txt
-└── README.md
 
 
 
